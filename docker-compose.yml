@@ -1,0 +1,6 @@
+ionic:
+  tty: true
+  stdin_open: true
+ build : 
+  ports:
+    - 8100:8100
